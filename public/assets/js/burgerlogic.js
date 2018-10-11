@@ -27,7 +27,7 @@ $(function() {
                     devoured: 0
                 }
             }).then(() => {
-                console.log("Created Successfully");
+                console.log("Created Burger Successfully!");
                 location.reload();
             });
         }

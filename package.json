@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaspreetKaur27/Burger.git"
+    "url": "git+https://github.com/jessalynchen/full-SQL-week-16.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaspreetKaur27/Burger/issues"
+    "url": "https://github.com/jessalynchen/full-SQL-week-16.git"
   },
-  "homepage": "https://github.com/JaspreetKaur27/Burger#readme",
+  "homepage": "https://github.com/jessalynchen/full-SQL-week-16.git",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
