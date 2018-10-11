@@ -1,0 +1,114 @@
+
+body
+{
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: Aclonia;
+}
+.bodycontainer
+{
+    max-width: 1145px;
+    margin: 0 auto;
+    box-sizing: border-box; 
+}
+
+h3
+{
+    color: white;
+}
+#row1
+{
+    background-color: rgb(27, 81, 0, 0.5); 
+}
+
+#row2
+{
+    background-color: rgb(27, 81, 0, 0.5);   
+}
+#header
+{
+    background-color: rgb(27, 81, 0, 0.5);
+    height: 15vh;
+    color: white;
+    top: 0;
+}
+
+
+.boxburger {
+    padding: 2%;
+    margin: 2%;
+    border: 1px solid #aaaaaa;
+    border-radius: 3px;
+    position: relative;
+    background-color: rgb(27, 81, 0, 0.5);
+    font-size: 20px;
+    color: white;
+  }
+
+.devourUndevour {
+    background-color: #359903;
+    border: 1px solid #bbbbbb;
+    color: white;
+    padding: 5px 15px;
+    margin-left: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+
+#burgerButton
+{
+    background-color: #359903;
+    border: 1px solid #bbbbbb;
+    padding: 5px 15px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;      
+    border-radius: 5px;
+}
+
+.devour:hover
+{
+    background-color: #1b5100;
+    box-shadow: inset 0 0 10px #000000;
+}
+
+#burgerButton:hover
+{
+    background-color: #1b5100;
+    box-shadow: inset 0 0 10px #000000;
+}
+
+.form-group label
+{
+    font-size: 20px;
+    color: white;
+}
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+input
+{
+    border: 2px solid #1b5100;
+    box-shadow: inset 0 0 10px #000000;
+    padding: 10px;
+}
+
+#footer
+{
+    border-top: 2px solid #1b5100;
+    height: 10vh;
+}
+
+#footer h4
+{
+    padding-top: 15px; 
+}
